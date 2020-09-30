@@ -1,4 +1,4 @@
-var express = require('express'); // ExperssJS Framework
+var express = require('express'); // ExpressJS Framework
 var app = express(); // Invoke express to variable for use in application
 var port = process.env.PORT || 8080; // Set default port or assign a port in enviornment
 var morgan = require('morgan'); // Import Morgan Package
